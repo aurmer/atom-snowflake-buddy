@@ -1,0 +1,23 @@
+{
+  "name": "snowflake",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "Autocomplete and hotkey support for the css management library snowflake-css",
+  "keywords": [
+    "snowflake",
+    "css"
+  ],
+  "repository": "",
+  "author": "Aubrey Snider",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.15.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
+}
