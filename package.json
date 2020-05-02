@@ -1,13 +1,14 @@
 {
-  "name": "snowflake",
+  "name": "snowflake-css-atom",
   "main": "./lib/main",
-  "version": "0.1.0",
-  "description": "Autocomplete and hotkey support for the css management library snowflake-css",
+  "version": "0.0.0",
+  "description": "Autocomplete and hash generation for the Snowflake CSS strategy",
   "keywords": [
     "snowflake",
-    "css"
+    "css",
+    "autocomplete"
   ],
-  "repository": "",
+  "repository": "https://github.com/aurmer/snowflake-css-atom",
   "author": "Aubrey Snider",
   "license": "MIT",
   "engines": {

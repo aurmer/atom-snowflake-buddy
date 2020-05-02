@@ -1,20 +1,24 @@
-# snowflake-css Atom companion
+# Atom extension for Snowflake CSS
+
+## Snowflake CSS
+
+[Snowflake CSS](https://github.com/oakmac/snowflake-css) is a styling strategy and tool set designed to simplify the CSS in your web app. Designed by [Chris Oakman](https://github.com/oakmac).
 
 ## Current State
 
-This is currently under development. To test current functionality, do the following
+This package is currently under development. All features have been implemented,
+and it needs some alpha testing to see if it holds up.
 
-1. clone this repo
-1. navigate to the repo on disk
-1. run `npm link`
-1. reload your Atom window with `Ctrl-Shift-F5`
-1. begin typing "button-" to see suggestions
-1. test the following "generate & print hash" command `Ctrl-Alt-S` under these conditions
-  - type "button-fav" then `Ctrl-Alt-S`
-  - type "button-fav-" then `Ctrl-Alt-S`
-  - type " " then `Ctrl-Alt-S`
+## Features
 
-## Next steps
+1. flake hash generation with `Ctrl-Alt-S`
+1. flake typing detection
+1. caching existing flakes for auto-complete suggestions
+1. multi-project windows keep project suggestions separate
 
-- Utilize snowflake-css to dynamically load auto-complete suggestions from active project
-- Track recently created snowflakes to add to auto-complete suggestions
+## Requirements
+
+- your project folder must be open in the same window you are using to edit
+- you must have `snowflake-css` installed in the repo (or globally)
+
+## Install
