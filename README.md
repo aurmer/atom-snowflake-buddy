@@ -16,7 +16,7 @@ and it needs some alpha testing to see if it holds up.
 1. caching existing flakes for auto-complete suggestions
 1. multi-project windows keep project suggestions separate
 
-## Requirements
+## Use Requirements
 
 - your project folder must be open in the same window you are using to edit
-- you must have `snowflake-css` installed in the repo (or globally)
+- you must have `snowflake-css` installed in the repo or globally
