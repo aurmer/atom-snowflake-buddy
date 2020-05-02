@@ -20,5 +20,3 @@ and it needs some alpha testing to see if it holds up.
 
 - your project folder must be open in the same window you are using to edit
 - you must have `snowflake-css` installed in the repo (or globally)
-
-## Install
