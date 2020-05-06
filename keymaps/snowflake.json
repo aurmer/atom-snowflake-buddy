@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-f7": "snowflake:generate-hash"
+    "ctrl-f7": "snowflake-css-atom:generate-hash"
   }
 }
