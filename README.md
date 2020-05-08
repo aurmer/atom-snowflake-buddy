@@ -21,6 +21,7 @@ and it needs some alpha testing to see if it holds up.
 1. a list of edge cases I have considered
  - renaming a file while it is open will trigger a snowflake-css run
  - selecting panes and tabs which are not files of a "snowflake project" will disable all features
+ - having more than one cursor disables features
 
 ## Coming Features
 
