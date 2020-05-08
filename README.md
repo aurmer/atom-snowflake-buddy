@@ -12,16 +12,16 @@ and it needs some alpha testing to see if it holds up.
 ## Features
 
 1. flake hash generation with `Ctrl-F7`
- - try generating a hash twice in a row
+   - try generating a hash twice in a row
 1. flake typing detection
 1. caching existing flakes for auto-complete suggestions
 1. flake suggestions tracked separately by "snowflake project"
 1. optional info and error notifications for increased feedback
- - try turning on notifications on your first use until you see what is going on
+   - try turning on notifications on your first use until you see what is going on
 1. a list of edge cases I have considered
- - renaming a file while it is open will trigger a snowflake-css run
- - selecting panes and tabs which are not files of a "snowflake project" will disable all features
- - having more than one cursor disables features
+   - renaming a file while it is open will trigger a snowflake-css run
+   - selecting panes and tabs which are not files of a "snowflake project" will disable all features
+   - having more than one cursor disables features
 
 ## Coming Features
 
