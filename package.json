@@ -20,5 +20,8 @@
         "2.0.0": "getProvider"
       }
     }
+  },
+  "dependencies": {
+    "find-up": "^4.1.0"
   }
 }
