@@ -2,7 +2,7 @@
 
 ## Snowflake CSS
 
-[Snowflake CSS](https://github.com/oakmac/snowflake-css) is a styling strategy and tool set designed to simplify the CSS in your web app. Designed by [Chris Oakman](https://github.com/oakmac).
+[Snowflake CSS](https://github.com/oakmac/snowflake-css) is a styling strategy and tool set designed to simplify the CSS in your web app. Snowflake CSS is designed by [Chris Oakman](https://github.com/oakmac).
 
 ## Current State
 
@@ -11,12 +11,15 @@ and it needs some alpha testing to see if it holds up.
 
 ## Features
 
-1. flake hash generation with `Ctrl-Alt-S`
+1. flake hash generation with `Ctrl-F7`
+ - try generating a hash twice in a row
 1. flake typing detection
 1. caching existing flakes for auto-complete suggestions
-1. multi-project windows keep project suggestions separate
+1. flake suggestions tracked separately by "snowflake project"
+1. optional info and error notifications for increased feedback
+ - try turning on notifications on your first use until you see what is going on
 
 ## Use Requirements
 
-- your project folder must be open in the same window you are using to edit
-- you must have `snowflake-css` installed in the repo or globally
+- you must have `snowflake-css` installed and properly initialized in your
+project. failures die silently unless you turn on debugging error notifications.
