@@ -18,6 +18,13 @@ and it needs some alpha testing to see if it holds up.
 1. flake suggestions tracked separately by "snowflake project"
 1. optional info and error notifications for increased feedback
  - try turning on notifications on your first use until you see what is going on
+1. a list of edge cases I have considered
+ - renaming a file while it is open will trigger a snowflake-css run
+ - selecting panes and tabs which are not files of a "snowflake project" will disable all features
+
+## Coming Features
+
+1. adding styling to the hash of each valid flake, providing visual confirmation on what are the flakes in your code.
 
 ## Use Requirements
 
