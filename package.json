@@ -1,7 +1,7 @@
 {
   "name": "snowflake-css-atom",
   "main": "./lib/main",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Autocomplete and hash generation for the Snowflake CSS strategy",
   "keywords": [
     "snowflake",
