@@ -2,7 +2,9 @@
 
 ## Snowflake CSS
 
-[Snowflake CSS](https://github.com/oakmac/snowflake-css) is a styling strategy and tool set designed to simplify the CSS in your web app. Snowflake CSS is designed by [Chris Oakman](https://github.com/oakmac).
+[Snowflake CSS](https://github.com/oakmac/snowflake-css)
+is a styling strategy and tool set designed to simplify the CSS in your
+web app. Snowflake CSS is designed by [Chris Oakman](https://github.com/oakmac).
 
 ## Current State
 
@@ -29,5 +31,5 @@ and it needs some alpha testing to see if it holds up.
 
 ## Use Requirements
 
-- you must have `snowflake-css` installed and properly initialized in your
-project. failures die silently unless you turn on debugging error notifications.
+- You must have `snowflake-css` installed and properly initialized in your
+project. Failed attempts die silently unless you turn on debugging error notifications.
