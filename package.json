@@ -2,6 +2,10 @@
   "name": "snowflake-css-atom",
   "main": "./lib/main",
   "version": "0.2.2",
+  "scripts": {
+    "testRegex": "npx babel-node lib/flakeRegexTest.js"
+  },
+  "type": "module",
   "description": "Autocomplete and hash generation for the Snowflake CSS strategy",
   "keywords": [
     "snowflake",
@@ -22,6 +26,11 @@
     }
   },
   "dependencies": {
-    "find-up": "^4.1.0"
+    "find-up": "^4.1.0",
+    "string.prototype.matchall": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7"
   }
 }

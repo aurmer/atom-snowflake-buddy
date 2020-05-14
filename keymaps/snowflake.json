@@ -1,5 +1,7 @@
 {
-  "atom-workspace": {
-    "ctrl-f7": "snowflake-css-atom:generate-hash"
+  "atom-text-editor": {
+    "ctrl-f7": "snowflake-css-atom:generate-hextail",
+    "ctrl-f8": "snowflake-css-atom:log-markers",
+    "ctrl-f9": "snowflake-css-atom:zzTest"
   }
 }
