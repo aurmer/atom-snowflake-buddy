@@ -1,7 +1,7 @@
 {
   "name": "snowflake-css-atom",
   "main": "./lib/main",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "scripts": {
     "testRegex": "npx babel-node lib/flakeRegexTest.js"
   },
