@@ -1,17 +1,18 @@
-# snowflake-buddy |  Atom support package for Snowflake CSS
+# snowflake-buddy
+Atom package supporting the Snowflake CSS strategy. Offers automation of hextails to alleviate copy+paste.
 
-## Snowflake CSS
+### Snowflake CSS
 
 [Snowflake CSS](https://github.com/oakmac/snowflake-css)
 is a styling strategy and tool set designed to simplify the CSS in your
 web app. Snowflake CSS is designed by [Chris Oakman](https://github.com/oakmac).
 
-## Current State
+### Current State
 
 All requested features have been implemented. Please submit issues for bugs or
 feature/behavior requests.
 
-## Features
+### Features
 
 1. flake hextail generation with `Ctrl-F7`
    - try generating a hextail twice in a row! (it will re-roll the random hextail)
@@ -26,7 +27,7 @@ feature/behavior requests.
    - selecting panes and tabs which are not files of a "snowflake project" will temporarily disable all features
    - having more than one cursor disables features
 
-## Use Requirements
+### Use Requirements
 
 - You must have `snowflake-css` installed and properly initialized in your
   project. Failed attempts to run `snowflake-css` on your project will die
