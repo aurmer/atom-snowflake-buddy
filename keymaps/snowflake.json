@@ -1,5 +1,5 @@
 {
   "atom-text-editor": {
-    "ctrl-f7": "snowflake-css-atom:generate-hextail"
+    "ctrl-f7": "snowflake-buddy:generate-hextail"
   }
 }

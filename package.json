@@ -1,18 +1,18 @@
 {
-  "name": "snowflake-css-atom",
+  "name": "snowflake-buddy",
   "main": "./lib/main",
   "version": "0.3.0",
   "scripts": {
     "testRegex": "npx babel-node lib/flakeRegexTest.js"
   },
   "type": "module",
-  "description": "Autocomplete and hash generation for the Snowflake CSS strategy",
+  "description": "Autocomplete and hextail generation for the Snowflake CSS strategy",
   "keywords": [
     "snowflake",
     "css",
     "autocomplete"
   ],
-  "repository": "https://github.com/aurmer/snowflake-css-atom",
+  "repository": "https://github.com/aurmer/snowflake-buddy",
   "author": "Aubrey Snider",
   "license": "MIT",
   "engines": {
