@@ -3,7 +3,6 @@
   "main": "./lib/main",
   "version": "0.3.0",
   "scripts": {
-    "testRegex": "npx babel-node lib/flakeRegexTest.js"
   },
   "type": "module",
   "description": "Autocomplete and hextail generation for the Snowflake CSS strategy",
