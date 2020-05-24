@@ -1,4 +1,4 @@
-# snowflake-buddy
+# snowflake-buddy for Atom
 Atom package supporting the Snowflake CSS strategy. Offers automation of hextails to alleviate copy+paste.
 
 ### Snowflake CSS

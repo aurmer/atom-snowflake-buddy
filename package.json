@@ -10,7 +10,7 @@
     "css",
     "autocomplete"
   ],
-  "repository": "https://github.com/aurmer/snowflake-buddy",
+  "repository": "https://github.com/aurmer/atom-snowflake-buddy",
   "author": "Aubrey Snider",
   "license": "MIT",
   "engines": {
