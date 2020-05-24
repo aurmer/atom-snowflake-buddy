@@ -1,9 +1,8 @@
 {
   "name": "snowflake-buddy",
   "main": "./lib/main",
-  "version": "0.3.0",
-  "scripts": {
-  },
+  "version": "1.0.0",
+  "scripts": {},
   "type": "module",
   "description": "Autocomplete and hextail generation for the Snowflake CSS strategy",
   "keywords": [
