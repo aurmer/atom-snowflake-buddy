@@ -1,5 +1,5 @@
 # snowflake-buddy for Atom
-Atom package supporting the Snowflake CSS strategy. Offers automation of hextails to alleviate copy+paste.
+Atom package supporting the Snowflake CSS strategy. Offers automation of hextails to alleviate copy+paste. test
 
 ### Snowflake CSS
 
